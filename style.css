@@ -1,0 +1,9 @@
+body{
+    background-color: aliceblue;
+    color: palegreen;
+    border: 15px solid blue;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
